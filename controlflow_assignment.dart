@@ -1,5 +1,5 @@
 void main() {
-  var Num = 20;
+  var Num = 10;
   if (Num > 10) {
     print("Your number is greater than 10");
   } else if (Num == 10) {
